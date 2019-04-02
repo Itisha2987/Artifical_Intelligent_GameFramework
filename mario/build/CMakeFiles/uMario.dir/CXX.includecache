@@ -1,0 +1,1416 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.cpp
+AboutMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.h
+Menu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.cpp
+Beetle.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.cpp
+Block.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+Sprite.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.cpp
+BlockDebris.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+Vector2.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.cpp
+Bowser.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.cpp
+Bubble.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.cpp
+BulletBill.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.cpp
+BulletBillSpawner.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.cpp
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Text.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.h
+MenuManager.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.h
+Music.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.cpp
+Cheep.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.cpp
+CheepSpawner.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.cpp
+Coin.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.cpp
+Console.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.cpp
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Text.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.h
+SDL_mixer.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/SDL_mixer.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+Map.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.cpp
+Event.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.cpp
+Fire.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.cpp
+FireBall.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+math.h
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.cpp
+Flag.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.cpp
+Flower.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.cpp
+Goombas.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.cpp
+Hammer.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.cpp
+HammerBro.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.cpp
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.cpp
+Koppa.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.cpp
+Lakito.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.cpp
+LevelEditor.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.cpp
+LevelText.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.h
+string
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.cpp
+LoadingMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.h
+Menu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.cpp
+MainMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.h
+Menu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.cpp
+Map.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+math.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/math.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+Block.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.h
+MapLevel.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.h
+Player.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.h
+PlayerFireBall.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.h
+Vector2.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.h
+LevelText.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.h
+Goombas.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.h
+Koppa.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.h
+Beetle.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.h
+Mushroom.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.h
+Flag.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.h
+Toad.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.h
+Bowser.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.h
+Plant.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.h
+Hammer.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.h
+HammerBro.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.h
+Star.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.h
+Cheep.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.h
+CheepSpawner.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.h
+Squid.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.h
+Flower.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.h
+Lakito.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.h
+Spikey.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.h
+FireBall.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.h
+Fire.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.h
+Pipe.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.h
+Spring.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.h
+BulletBill.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.h
+BulletBillSpawner.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.h
+Vine.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.h
+UpFire.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.h
+Platform.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.h
+Event.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.h
+Coin.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.h
+Points.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.h
+BlockDebris.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.h
+Bubble.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.h
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.cpp
+MapLevel.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.cpp
+Menu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+MenuOption.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.h
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.cpp
+MenuManager.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+MainMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.h
+LoadingMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.h
+AboutMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.h
+Console.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.h
+LevelEditor.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.h
+OptionsMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.h
+PauseMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.cpp
+MenuOption.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.h
+string
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.cpp
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.cpp
+Mushroom.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.cpp
+Music.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+SDL_mixer.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/SDL_mixer.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.h
+SDL_mixer.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/SDL_mixer.h
+string
+-
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MusicManager.cpp
+MusicManager.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MusicManager.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MusicManager.h
+SDL.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/SDL.h
+SDL_mixer.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/SDL_mixer.h
+string
+-
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.cpp
+OptionsMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.h
+Menu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.cpp
+PauseMenu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.h
+Menu.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.cpp
+Pipe.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.cpp
+Plant.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.cpp
+Platform.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.cpp
+Player.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.h
+Sprite.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.h
+Vector2.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.h
+vector
+-
+string
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.cpp
+PlayerFireBall.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.cpp
+Points.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.cpp
+Spikey.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.cpp
+Spring.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.cpp
+Sprite.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+string
+-
+vector
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.cpp
+Squid.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.cpp
+Star.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+string.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/string.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.cpp
+Text.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.h
+CFG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+IMG.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Texture.cpp
+Texture.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Texture.h
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Texture.h
+string
+-
+SDL.h
+-
+SDL_image.h
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.cpp
+Toad.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.cpp
+UpFire.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+stdlib.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/stdlib.h
+time.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/time.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.cpp
+Vector2.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.cpp
+Vine.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.h
+Minion.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.h
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+SDL.h
+-
+SDL_image.h
+-
+string
+-
+
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/main.cpp
+header.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/header.h
+Core.h
+/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.h
+
+/usr/include/SDL2/SDL.h
+SDL_main.h
+/usr/include/SDL2/SDL_main.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_assert.h
+/usr/include/SDL2/SDL_assert.h
+SDL_atomic.h
+/usr/include/SDL2/SDL_atomic.h
+SDL_audio.h
+/usr/include/SDL2/SDL_audio.h
+SDL_clipboard.h
+/usr/include/SDL2/SDL_clipboard.h
+SDL_cpuinfo.h
+/usr/include/SDL2/SDL_cpuinfo.h
+SDL_endian.h
+/usr/include/SDL2/SDL_endian.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_events.h
+/usr/include/SDL2/SDL_events.h
+SDL_filesystem.h
+/usr/include/SDL2/SDL_filesystem.h
+SDL_joystick.h
+/usr/include/SDL2/SDL_joystick.h
+SDL_gamecontroller.h
+/usr/include/SDL2/SDL_gamecontroller.h
+SDL_haptic.h
+/usr/include/SDL2/SDL_haptic.h
+SDL_hints.h
+/usr/include/SDL2/SDL_hints.h
+SDL_loadso.h
+/usr/include/SDL2/SDL_loadso.h
+SDL_log.h
+/usr/include/SDL2/SDL_log.h
+SDL_messagebox.h
+/usr/include/SDL2/SDL_messagebox.h
+SDL_mutex.h
+/usr/include/SDL2/SDL_mutex.h
+SDL_power.h
+/usr/include/SDL2/SDL_power.h
+SDL_render.h
+/usr/include/SDL2/SDL_render.h
+SDL_rwops.h
+/usr/include/SDL2/SDL_rwops.h
+SDL_system.h
+/usr/include/SDL2/SDL_system.h
+SDL_thread.h
+/usr/include/SDL2/SDL_thread.h
+SDL_timer.h
+/usr/include/SDL2/SDL_timer.h
+SDL_version.h
+/usr/include/SDL2/SDL_version.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_assert.h
+SDL_config.h
+/usr/include/SDL2/SDL_config.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+signal.h
+-
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_atomic.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_platform.h
+/usr/include/SDL2/SDL_platform.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+mbarrier.h
+-
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_audio.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_endian.h
+/usr/include/SDL2/SDL_endian.h
+SDL_mutex.h
+/usr/include/SDL2/SDL_mutex.h
+SDL_thread.h
+/usr/include/SDL2/SDL_thread.h
+SDL_rwops.h
+/usr/include/SDL2/SDL_rwops.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_blendmode.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_clipboard.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_config.h
+SDL_platform.h
+/usr/include/SDL2/SDL_platform.h
+
+/usr/include/SDL2/SDL_cpuinfo.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+intrin.h
+-
+intrin.h
+-
+altivec.h
+-
+mmintrin.h
+-
+mm3dnow.h
+-
+xmmintrin.h
+-
+emmintrin.h
+-
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_endian.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+endian.h
+-
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_error.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_events.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+SDL_keyboard.h
+/usr/include/SDL2/SDL_keyboard.h
+SDL_mouse.h
+/usr/include/SDL2/SDL_mouse.h
+SDL_joystick.h
+/usr/include/SDL2/SDL_joystick.h
+SDL_gamecontroller.h
+/usr/include/SDL2/SDL_gamecontroller.h
+SDL_quit.h
+/usr/include/SDL2/SDL_quit.h
+SDL_gesture.h
+/usr/include/SDL2/SDL_gesture.h
+SDL_touch.h
+/usr/include/SDL2/SDL_touch.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_filesystem.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_gamecontroller.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_rwops.h
+/usr/include/SDL2/SDL_rwops.h
+SDL_joystick.h
+/usr/include/SDL2/SDL_joystick.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_gesture.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+SDL_touch.h
+/usr/include/SDL2/SDL_touch.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_haptic.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_joystick.h
+/usr/include/SDL2/SDL_joystick.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_hints.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_image.h
+SDL.h
+/usr/include/SDL2/SDL.h
+SDL_version.h
+/usr/include/SDL2/SDL_version.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_joystick.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_keyboard.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_keycode.h
+/usr/include/SDL2/SDL_keycode.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_keycode.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_scancode.h
+/usr/include/SDL2/SDL_scancode.h
+
+/usr/include/SDL2/SDL_loadso.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_log.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_main.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_messagebox.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_mixer.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_rwops.h
+/usr/include/SDL2/SDL_rwops.h
+SDL_audio.h
+/usr/include/SDL2/SDL_audio.h
+SDL_endian.h
+/usr/include/SDL2/SDL_endian.h
+SDL_version.h
+/usr/include/SDL2/SDL_version.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_mouse.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_mutex.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_pixels.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_platform.h
+AvailabilityMacros.h
+/usr/include/SDL2/AvailabilityMacros.h
+TargetConditionals.h
+/usr/include/SDL2/TargetConditionals.h
+winapifamily.h
+-
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_power.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_quit.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+
+/usr/include/SDL2/SDL_rect.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_pixels.h
+/usr/include/SDL2/SDL_pixels.h
+SDL_rwops.h
+/usr/include/SDL2/SDL_rwops.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_render.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_rect.h
+/usr/include/SDL2/SDL_rect.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_rwops.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_scancode.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+
+/usr/include/SDL2/SDL_stdinc.h
+SDL_config.h
+/usr/include/SDL2/SDL_config.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdlib.h
+-
+malloc.h
+-
+stddef.h
+-
+stdarg.h
+-
+memory.h
+-
+string.h
+-
+strings.h
+-
+inttypes.h
+-
+stdint.h
+-
+ctype.h
+-
+math.h
+-
+float.h
+-
+iconv.h
+-
+sal.h
+-
+begin_code.h
+/usr/include/SDL2/begin_code.h
+alloca.h
+-
+malloc.h
+-
+malloc.h
+-
+malloc.h
+-
+stdlib.h
+-
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_surface.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+/usr/include/SDL2/SDL_pixels.h
+SDL_rect.h
+/usr/include/SDL2/SDL_rect.h
+SDL_blendmode.h
+/usr/include/SDL2/SDL_blendmode.h
+SDL_rwops.h
+/usr/include/SDL2/SDL_rwops.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_system.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_keyboard.h
+/usr/include/SDL2/SDL_keyboard.h
+SDL_render.h
+/usr/include/SDL2/SDL_render.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_thread.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_atomic.h
+/usr/include/SDL2/SDL_atomic.h
+SDL_mutex.h
+/usr/include/SDL2/SDL_mutex.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+process.h
+-
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_timer.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_touch.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/include/SDL2/SDL_video.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_version.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/SDL_video.h
+SDL_stdinc.h
+/usr/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+/usr/include/SDL2/SDL_pixels.h
+SDL_rect.h
+/usr/include/SDL2/SDL_rect.h
+SDL_surface.h
+/usr/include/SDL2/SDL_surface.h
+begin_code.h
+/usr/include/SDL2/begin_code.h
+close_code.h
+/usr/include/SDL2/close_code.h
+
+/usr/include/SDL2/begin_code.h
+
+/usr/include/SDL2/close_code.h
+
