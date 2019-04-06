@@ -43,10 +43,10 @@ RM = /usr/local/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/itisha/Desktop/BTP 4th Sem/ferMario"
+CMAKE_SOURCE_DIR = /home/itisha/Desktop/finalBtp/Btp4thSem/mario
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/itisha/Desktop/BTP 4th Sem/ferMario/build"
+CMAKE_BINARY_DIR = /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/uMario.dir/depend.make
@@ -59,757 +59,757 @@ include CMakeFiles/uMario.dir/flags.make
 
 CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.o: ../uNext/AboutMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/AboutMenu.cpp
 
 CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.cpp" > CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/AboutMenu.cpp > CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.i
 
 CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/AboutMenu.cpp" -o CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/AboutMenu.cpp -o CMakeFiles/uMario.dir/uNext/AboutMenu.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Beetle.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Beetle.cpp.o: ../uNext/Beetle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/uMario.dir/uNext/Beetle.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Beetle.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/uMario.dir/uNext/Beetle.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Beetle.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Beetle.cpp
 
 CMakeFiles/uMario.dir/uNext/Beetle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Beetle.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.cpp" > CMakeFiles/uMario.dir/uNext/Beetle.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Beetle.cpp > CMakeFiles/uMario.dir/uNext/Beetle.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Beetle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Beetle.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Beetle.cpp" -o CMakeFiles/uMario.dir/uNext/Beetle.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Beetle.cpp -o CMakeFiles/uMario.dir/uNext/Beetle.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Block.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Block.cpp.o: ../uNext/Block.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/uMario.dir/uNext/Block.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Block.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/uMario.dir/uNext/Block.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Block.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Block.cpp
 
 CMakeFiles/uMario.dir/uNext/Block.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Block.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.cpp" > CMakeFiles/uMario.dir/uNext/Block.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Block.cpp > CMakeFiles/uMario.dir/uNext/Block.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Block.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Block.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Block.cpp" -o CMakeFiles/uMario.dir/uNext/Block.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Block.cpp -o CMakeFiles/uMario.dir/uNext/Block.cpp.s
 
 CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.o: ../uNext/BlockDebris.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BlockDebris.cpp
 
 CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.cpp" > CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BlockDebris.cpp > CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.i
 
 CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BlockDebris.cpp" -o CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BlockDebris.cpp -o CMakeFiles/uMario.dir/uNext/BlockDebris.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Bowser.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Bowser.cpp.o: ../uNext/Bowser.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/uMario.dir/uNext/Bowser.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Bowser.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/uMario.dir/uNext/Bowser.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Bowser.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Bowser.cpp
 
 CMakeFiles/uMario.dir/uNext/Bowser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Bowser.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.cpp" > CMakeFiles/uMario.dir/uNext/Bowser.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Bowser.cpp > CMakeFiles/uMario.dir/uNext/Bowser.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Bowser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Bowser.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bowser.cpp" -o CMakeFiles/uMario.dir/uNext/Bowser.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Bowser.cpp -o CMakeFiles/uMario.dir/uNext/Bowser.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Bubble.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Bubble.cpp.o: ../uNext/Bubble.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/uMario.dir/uNext/Bubble.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Bubble.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/uMario.dir/uNext/Bubble.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Bubble.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Bubble.cpp
 
 CMakeFiles/uMario.dir/uNext/Bubble.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Bubble.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.cpp" > CMakeFiles/uMario.dir/uNext/Bubble.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Bubble.cpp > CMakeFiles/uMario.dir/uNext/Bubble.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Bubble.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Bubble.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Bubble.cpp" -o CMakeFiles/uMario.dir/uNext/Bubble.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Bubble.cpp -o CMakeFiles/uMario.dir/uNext/Bubble.cpp.s
 
 CMakeFiles/uMario.dir/uNext/BulletBill.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/BulletBill.cpp.o: ../uNext/BulletBill.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/uMario.dir/uNext/BulletBill.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/BulletBill.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/uMario.dir/uNext/BulletBill.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/BulletBill.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BulletBill.cpp
 
 CMakeFiles/uMario.dir/uNext/BulletBill.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/BulletBill.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.cpp" > CMakeFiles/uMario.dir/uNext/BulletBill.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BulletBill.cpp > CMakeFiles/uMario.dir/uNext/BulletBill.cpp.i
 
 CMakeFiles/uMario.dir/uNext/BulletBill.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/BulletBill.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBill.cpp" -o CMakeFiles/uMario.dir/uNext/BulletBill.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BulletBill.cpp -o CMakeFiles/uMario.dir/uNext/BulletBill.cpp.s
 
 CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.o: ../uNext/BulletBillSpawner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BulletBillSpawner.cpp
 
 CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.cpp" > CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BulletBillSpawner.cpp > CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.i
 
 CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/BulletBillSpawner.cpp" -o CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/BulletBillSpawner.cpp -o CMakeFiles/uMario.dir/uNext/BulletBillSpawner.cpp.s
 
 CMakeFiles/uMario.dir/uNext/CFG.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/CFG.cpp.o: ../uNext/CFG.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/uMario.dir/uNext/CFG.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/CFG.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/uMario.dir/uNext/CFG.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/CFG.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/CFG.cpp
 
 CMakeFiles/uMario.dir/uNext/CFG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/CFG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.cpp" > CMakeFiles/uMario.dir/uNext/CFG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/CFG.cpp > CMakeFiles/uMario.dir/uNext/CFG.cpp.i
 
 CMakeFiles/uMario.dir/uNext/CFG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/CFG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CFG.cpp" -o CMakeFiles/uMario.dir/uNext/CFG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/CFG.cpp -o CMakeFiles/uMario.dir/uNext/CFG.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Cheep.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Cheep.cpp.o: ../uNext/Cheep.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/uMario.dir/uNext/Cheep.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Cheep.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/uMario.dir/uNext/Cheep.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Cheep.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Cheep.cpp
 
 CMakeFiles/uMario.dir/uNext/Cheep.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Cheep.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.cpp" > CMakeFiles/uMario.dir/uNext/Cheep.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Cheep.cpp > CMakeFiles/uMario.dir/uNext/Cheep.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Cheep.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Cheep.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Cheep.cpp" -o CMakeFiles/uMario.dir/uNext/Cheep.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Cheep.cpp -o CMakeFiles/uMario.dir/uNext/Cheep.cpp.s
 
 CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.o: ../uNext/CheepSpawner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/CheepSpawner.cpp
 
 CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.cpp" > CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/CheepSpawner.cpp > CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.i
 
 CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/CheepSpawner.cpp" -o CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/CheepSpawner.cpp -o CMakeFiles/uMario.dir/uNext/CheepSpawner.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Coin.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Coin.cpp.o: ../uNext/Coin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/uMario.dir/uNext/Coin.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Coin.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/uMario.dir/uNext/Coin.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Coin.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Coin.cpp
 
 CMakeFiles/uMario.dir/uNext/Coin.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Coin.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.cpp" > CMakeFiles/uMario.dir/uNext/Coin.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Coin.cpp > CMakeFiles/uMario.dir/uNext/Coin.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Coin.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Coin.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Coin.cpp" -o CMakeFiles/uMario.dir/uNext/Coin.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Coin.cpp -o CMakeFiles/uMario.dir/uNext/Coin.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Console.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Console.cpp.o: ../uNext/Console.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/uMario.dir/uNext/Console.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Console.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/uMario.dir/uNext/Console.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Console.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Console.cpp
 
 CMakeFiles/uMario.dir/uNext/Console.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Console.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.cpp" > CMakeFiles/uMario.dir/uNext/Console.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Console.cpp > CMakeFiles/uMario.dir/uNext/Console.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Console.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Console.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Console.cpp" -o CMakeFiles/uMario.dir/uNext/Console.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Console.cpp -o CMakeFiles/uMario.dir/uNext/Console.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Core.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Core.cpp.o: ../uNext/Core.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/uMario.dir/uNext/Core.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Core.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/uMario.dir/uNext/Core.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Core.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Core.cpp
 
 CMakeFiles/uMario.dir/uNext/Core.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Core.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.cpp" > CMakeFiles/uMario.dir/uNext/Core.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Core.cpp > CMakeFiles/uMario.dir/uNext/Core.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Core.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Core.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Core.cpp" -o CMakeFiles/uMario.dir/uNext/Core.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Core.cpp -o CMakeFiles/uMario.dir/uNext/Core.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Event.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Event.cpp.o: ../uNext/Event.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/uMario.dir/uNext/Event.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Event.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/uMario.dir/uNext/Event.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Event.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Event.cpp
 
 CMakeFiles/uMario.dir/uNext/Event.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Event.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.cpp" > CMakeFiles/uMario.dir/uNext/Event.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Event.cpp > CMakeFiles/uMario.dir/uNext/Event.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Event.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Event.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Event.cpp" -o CMakeFiles/uMario.dir/uNext/Event.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Event.cpp -o CMakeFiles/uMario.dir/uNext/Event.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Fire.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Fire.cpp.o: ../uNext/Fire.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/uMario.dir/uNext/Fire.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Fire.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/uMario.dir/uNext/Fire.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Fire.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Fire.cpp
 
 CMakeFiles/uMario.dir/uNext/Fire.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Fire.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.cpp" > CMakeFiles/uMario.dir/uNext/Fire.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Fire.cpp > CMakeFiles/uMario.dir/uNext/Fire.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Fire.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Fire.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Fire.cpp" -o CMakeFiles/uMario.dir/uNext/Fire.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Fire.cpp -o CMakeFiles/uMario.dir/uNext/Fire.cpp.s
 
 CMakeFiles/uMario.dir/uNext/FireBall.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/FireBall.cpp.o: ../uNext/FireBall.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/uMario.dir/uNext/FireBall.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/FireBall.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/uMario.dir/uNext/FireBall.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/FireBall.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/FireBall.cpp
 
 CMakeFiles/uMario.dir/uNext/FireBall.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/FireBall.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.cpp" > CMakeFiles/uMario.dir/uNext/FireBall.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/FireBall.cpp > CMakeFiles/uMario.dir/uNext/FireBall.cpp.i
 
 CMakeFiles/uMario.dir/uNext/FireBall.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/FireBall.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/FireBall.cpp" -o CMakeFiles/uMario.dir/uNext/FireBall.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/FireBall.cpp -o CMakeFiles/uMario.dir/uNext/FireBall.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Flag.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Flag.cpp.o: ../uNext/Flag.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/uMario.dir/uNext/Flag.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Flag.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/uMario.dir/uNext/Flag.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Flag.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Flag.cpp
 
 CMakeFiles/uMario.dir/uNext/Flag.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Flag.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.cpp" > CMakeFiles/uMario.dir/uNext/Flag.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Flag.cpp > CMakeFiles/uMario.dir/uNext/Flag.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Flag.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Flag.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flag.cpp" -o CMakeFiles/uMario.dir/uNext/Flag.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Flag.cpp -o CMakeFiles/uMario.dir/uNext/Flag.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Flower.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Flower.cpp.o: ../uNext/Flower.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/uMario.dir/uNext/Flower.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Flower.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/uMario.dir/uNext/Flower.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Flower.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Flower.cpp
 
 CMakeFiles/uMario.dir/uNext/Flower.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Flower.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.cpp" > CMakeFiles/uMario.dir/uNext/Flower.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Flower.cpp > CMakeFiles/uMario.dir/uNext/Flower.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Flower.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Flower.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Flower.cpp" -o CMakeFiles/uMario.dir/uNext/Flower.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Flower.cpp -o CMakeFiles/uMario.dir/uNext/Flower.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Goombas.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Goombas.cpp.o: ../uNext/Goombas.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/uMario.dir/uNext/Goombas.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Goombas.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/uMario.dir/uNext/Goombas.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Goombas.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Goombas.cpp
 
 CMakeFiles/uMario.dir/uNext/Goombas.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Goombas.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.cpp" > CMakeFiles/uMario.dir/uNext/Goombas.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Goombas.cpp > CMakeFiles/uMario.dir/uNext/Goombas.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Goombas.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Goombas.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Goombas.cpp" -o CMakeFiles/uMario.dir/uNext/Goombas.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Goombas.cpp -o CMakeFiles/uMario.dir/uNext/Goombas.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Hammer.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Hammer.cpp.o: ../uNext/Hammer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/uMario.dir/uNext/Hammer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Hammer.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/uMario.dir/uNext/Hammer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Hammer.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Hammer.cpp
 
 CMakeFiles/uMario.dir/uNext/Hammer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Hammer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.cpp" > CMakeFiles/uMario.dir/uNext/Hammer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Hammer.cpp > CMakeFiles/uMario.dir/uNext/Hammer.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Hammer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Hammer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Hammer.cpp" -o CMakeFiles/uMario.dir/uNext/Hammer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Hammer.cpp -o CMakeFiles/uMario.dir/uNext/Hammer.cpp.s
 
 CMakeFiles/uMario.dir/uNext/HammerBro.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/HammerBro.cpp.o: ../uNext/HammerBro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/uMario.dir/uNext/HammerBro.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/HammerBro.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/uMario.dir/uNext/HammerBro.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/HammerBro.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/HammerBro.cpp
 
 CMakeFiles/uMario.dir/uNext/HammerBro.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/HammerBro.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.cpp" > CMakeFiles/uMario.dir/uNext/HammerBro.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/HammerBro.cpp > CMakeFiles/uMario.dir/uNext/HammerBro.cpp.i
 
 CMakeFiles/uMario.dir/uNext/HammerBro.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/HammerBro.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/HammerBro.cpp" -o CMakeFiles/uMario.dir/uNext/HammerBro.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/HammerBro.cpp -o CMakeFiles/uMario.dir/uNext/HammerBro.cpp.s
 
 CMakeFiles/uMario.dir/uNext/IMG.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/IMG.cpp.o: ../uNext/IMG.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/uMario.dir/uNext/IMG.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/IMG.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/uMario.dir/uNext/IMG.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/IMG.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/IMG.cpp
 
 CMakeFiles/uMario.dir/uNext/IMG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/IMG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.cpp" > CMakeFiles/uMario.dir/uNext/IMG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/IMG.cpp > CMakeFiles/uMario.dir/uNext/IMG.cpp.i
 
 CMakeFiles/uMario.dir/uNext/IMG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/IMG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/IMG.cpp" -o CMakeFiles/uMario.dir/uNext/IMG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/IMG.cpp -o CMakeFiles/uMario.dir/uNext/IMG.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Koppa.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Koppa.cpp.o: ../uNext/Koppa.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/uMario.dir/uNext/Koppa.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Koppa.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/uMario.dir/uNext/Koppa.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Koppa.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Koppa.cpp
 
 CMakeFiles/uMario.dir/uNext/Koppa.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Koppa.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.cpp" > CMakeFiles/uMario.dir/uNext/Koppa.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Koppa.cpp > CMakeFiles/uMario.dir/uNext/Koppa.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Koppa.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Koppa.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Koppa.cpp" -o CMakeFiles/uMario.dir/uNext/Koppa.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Koppa.cpp -o CMakeFiles/uMario.dir/uNext/Koppa.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Lakito.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Lakito.cpp.o: ../uNext/Lakito.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/uMario.dir/uNext/Lakito.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Lakito.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/uMario.dir/uNext/Lakito.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Lakito.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Lakito.cpp
 
 CMakeFiles/uMario.dir/uNext/Lakito.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Lakito.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.cpp" > CMakeFiles/uMario.dir/uNext/Lakito.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Lakito.cpp > CMakeFiles/uMario.dir/uNext/Lakito.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Lakito.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Lakito.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Lakito.cpp" -o CMakeFiles/uMario.dir/uNext/Lakito.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Lakito.cpp -o CMakeFiles/uMario.dir/uNext/Lakito.cpp.s
 
 CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.o: ../uNext/LevelEditor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LevelEditor.cpp
 
 CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.cpp" > CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LevelEditor.cpp > CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.i
 
 CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelEditor.cpp" -o CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LevelEditor.cpp -o CMakeFiles/uMario.dir/uNext/LevelEditor.cpp.s
 
 CMakeFiles/uMario.dir/uNext/LevelText.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/LevelText.cpp.o: ../uNext/LevelText.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/uMario.dir/uNext/LevelText.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/LevelText.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/uMario.dir/uNext/LevelText.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/LevelText.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LevelText.cpp
 
 CMakeFiles/uMario.dir/uNext/LevelText.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/LevelText.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.cpp" > CMakeFiles/uMario.dir/uNext/LevelText.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LevelText.cpp > CMakeFiles/uMario.dir/uNext/LevelText.cpp.i
 
 CMakeFiles/uMario.dir/uNext/LevelText.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/LevelText.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LevelText.cpp" -o CMakeFiles/uMario.dir/uNext/LevelText.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LevelText.cpp -o CMakeFiles/uMario.dir/uNext/LevelText.cpp.s
 
 CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.o: ../uNext/LoadingMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LoadingMenu.cpp
 
 CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.cpp" > CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LoadingMenu.cpp > CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.i
 
 CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/LoadingMenu.cpp" -o CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/LoadingMenu.cpp -o CMakeFiles/uMario.dir/uNext/LoadingMenu.cpp.s
 
 CMakeFiles/uMario.dir/uNext/MainMenu.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/MainMenu.cpp.o: ../uNext/MainMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/uMario.dir/uNext/MainMenu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MainMenu.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/uMario.dir/uNext/MainMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MainMenu.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MainMenu.cpp
 
 CMakeFiles/uMario.dir/uNext/MainMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/MainMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.cpp" > CMakeFiles/uMario.dir/uNext/MainMenu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MainMenu.cpp > CMakeFiles/uMario.dir/uNext/MainMenu.cpp.i
 
 CMakeFiles/uMario.dir/uNext/MainMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/MainMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MainMenu.cpp" -o CMakeFiles/uMario.dir/uNext/MainMenu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MainMenu.cpp -o CMakeFiles/uMario.dir/uNext/MainMenu.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/uMario.dir/uNext/Map.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Map.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/uMario.dir/uNext/Map.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Map.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Map.cpp
 
 CMakeFiles/uMario.dir/uNext/Map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Map.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.cpp" > CMakeFiles/uMario.dir/uNext/Map.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Map.cpp > CMakeFiles/uMario.dir/uNext/Map.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Map.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Map.cpp" -o CMakeFiles/uMario.dir/uNext/Map.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Map.cpp -o CMakeFiles/uMario.dir/uNext/Map.cpp.s
 
 CMakeFiles/uMario.dir/uNext/MapLevel.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/MapLevel.cpp.o: ../uNext/MapLevel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/uMario.dir/uNext/MapLevel.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MapLevel.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/uMario.dir/uNext/MapLevel.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MapLevel.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MapLevel.cpp
 
 CMakeFiles/uMario.dir/uNext/MapLevel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/MapLevel.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.cpp" > CMakeFiles/uMario.dir/uNext/MapLevel.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MapLevel.cpp > CMakeFiles/uMario.dir/uNext/MapLevel.cpp.i
 
 CMakeFiles/uMario.dir/uNext/MapLevel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/MapLevel.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MapLevel.cpp" -o CMakeFiles/uMario.dir/uNext/MapLevel.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MapLevel.cpp -o CMakeFiles/uMario.dir/uNext/MapLevel.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Menu.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Menu.cpp.o: ../uNext/Menu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/uMario.dir/uNext/Menu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Menu.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/uMario.dir/uNext/Menu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Menu.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Menu.cpp
 
 CMakeFiles/uMario.dir/uNext/Menu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Menu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.cpp" > CMakeFiles/uMario.dir/uNext/Menu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Menu.cpp > CMakeFiles/uMario.dir/uNext/Menu.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Menu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Menu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Menu.cpp" -o CMakeFiles/uMario.dir/uNext/Menu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Menu.cpp -o CMakeFiles/uMario.dir/uNext/Menu.cpp.s
 
 CMakeFiles/uMario.dir/uNext/MenuManager.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/MenuManager.cpp.o: ../uNext/MenuManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/uMario.dir/uNext/MenuManager.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MenuManager.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/uMario.dir/uNext/MenuManager.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MenuManager.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MenuManager.cpp
 
 CMakeFiles/uMario.dir/uNext/MenuManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/MenuManager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.cpp" > CMakeFiles/uMario.dir/uNext/MenuManager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MenuManager.cpp > CMakeFiles/uMario.dir/uNext/MenuManager.cpp.i
 
 CMakeFiles/uMario.dir/uNext/MenuManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/MenuManager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuManager.cpp" -o CMakeFiles/uMario.dir/uNext/MenuManager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MenuManager.cpp -o CMakeFiles/uMario.dir/uNext/MenuManager.cpp.s
 
 CMakeFiles/uMario.dir/uNext/MenuOption.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/MenuOption.cpp.o: ../uNext/MenuOption.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/uMario.dir/uNext/MenuOption.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MenuOption.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/uMario.dir/uNext/MenuOption.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MenuOption.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MenuOption.cpp
 
 CMakeFiles/uMario.dir/uNext/MenuOption.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/MenuOption.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.cpp" > CMakeFiles/uMario.dir/uNext/MenuOption.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MenuOption.cpp > CMakeFiles/uMario.dir/uNext/MenuOption.cpp.i
 
 CMakeFiles/uMario.dir/uNext/MenuOption.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/MenuOption.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MenuOption.cpp" -o CMakeFiles/uMario.dir/uNext/MenuOption.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MenuOption.cpp -o CMakeFiles/uMario.dir/uNext/MenuOption.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Minion.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Minion.cpp.o: ../uNext/Minion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/uMario.dir/uNext/Minion.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Minion.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/uMario.dir/uNext/Minion.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Minion.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Minion.cpp
 
 CMakeFiles/uMario.dir/uNext/Minion.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Minion.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.cpp" > CMakeFiles/uMario.dir/uNext/Minion.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Minion.cpp > CMakeFiles/uMario.dir/uNext/Minion.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Minion.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Minion.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Minion.cpp" -o CMakeFiles/uMario.dir/uNext/Minion.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Minion.cpp -o CMakeFiles/uMario.dir/uNext/Minion.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Mushroom.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Mushroom.cpp.o: ../uNext/Mushroom.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/uMario.dir/uNext/Mushroom.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Mushroom.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/uMario.dir/uNext/Mushroom.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Mushroom.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Mushroom.cpp
 
 CMakeFiles/uMario.dir/uNext/Mushroom.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Mushroom.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.cpp" > CMakeFiles/uMario.dir/uNext/Mushroom.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Mushroom.cpp > CMakeFiles/uMario.dir/uNext/Mushroom.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Mushroom.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Mushroom.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Mushroom.cpp" -o CMakeFiles/uMario.dir/uNext/Mushroom.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Mushroom.cpp -o CMakeFiles/uMario.dir/uNext/Mushroom.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Music.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Music.cpp.o: ../uNext/Music.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/uMario.dir/uNext/Music.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Music.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/uMario.dir/uNext/Music.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Music.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Music.cpp
 
 CMakeFiles/uMario.dir/uNext/Music.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Music.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.cpp" > CMakeFiles/uMario.dir/uNext/Music.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Music.cpp > CMakeFiles/uMario.dir/uNext/Music.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Music.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Music.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Music.cpp" -o CMakeFiles/uMario.dir/uNext/Music.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Music.cpp -o CMakeFiles/uMario.dir/uNext/Music.cpp.s
 
 CMakeFiles/uMario.dir/uNext/MusicManager.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/MusicManager.cpp.o: ../uNext/MusicManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/uMario.dir/uNext/MusicManager.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MusicManager.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MusicManager.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/uMario.dir/uNext/MusicManager.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/MusicManager.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MusicManager.cpp
 
 CMakeFiles/uMario.dir/uNext/MusicManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/MusicManager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MusicManager.cpp" > CMakeFiles/uMario.dir/uNext/MusicManager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MusicManager.cpp > CMakeFiles/uMario.dir/uNext/MusicManager.cpp.i
 
 CMakeFiles/uMario.dir/uNext/MusicManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/MusicManager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/MusicManager.cpp" -o CMakeFiles/uMario.dir/uNext/MusicManager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/MusicManager.cpp -o CMakeFiles/uMario.dir/uNext/MusicManager.cpp.s
 
 CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.o: ../uNext/OptionsMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/OptionsMenu.cpp
 
 CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.cpp" > CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/OptionsMenu.cpp > CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.i
 
 CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/OptionsMenu.cpp" -o CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/OptionsMenu.cpp -o CMakeFiles/uMario.dir/uNext/OptionsMenu.cpp.s
 
 CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.o: ../uNext/PauseMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/PauseMenu.cpp
 
 CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.cpp" > CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/PauseMenu.cpp > CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.i
 
 CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PauseMenu.cpp" -o CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/PauseMenu.cpp -o CMakeFiles/uMario.dir/uNext/PauseMenu.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Pipe.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Pipe.cpp.o: ../uNext/Pipe.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/uMario.dir/uNext/Pipe.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Pipe.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/uMario.dir/uNext/Pipe.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Pipe.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Pipe.cpp
 
 CMakeFiles/uMario.dir/uNext/Pipe.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Pipe.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.cpp" > CMakeFiles/uMario.dir/uNext/Pipe.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Pipe.cpp > CMakeFiles/uMario.dir/uNext/Pipe.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Pipe.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Pipe.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Pipe.cpp" -o CMakeFiles/uMario.dir/uNext/Pipe.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Pipe.cpp -o CMakeFiles/uMario.dir/uNext/Pipe.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Plant.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Plant.cpp.o: ../uNext/Plant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/uMario.dir/uNext/Plant.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Plant.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/uMario.dir/uNext/Plant.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Plant.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Plant.cpp
 
 CMakeFiles/uMario.dir/uNext/Plant.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Plant.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.cpp" > CMakeFiles/uMario.dir/uNext/Plant.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Plant.cpp > CMakeFiles/uMario.dir/uNext/Plant.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Plant.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Plant.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Plant.cpp" -o CMakeFiles/uMario.dir/uNext/Plant.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Plant.cpp -o CMakeFiles/uMario.dir/uNext/Plant.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Platform.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Platform.cpp.o: ../uNext/Platform.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/uMario.dir/uNext/Platform.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Platform.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/uMario.dir/uNext/Platform.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Platform.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Platform.cpp
 
 CMakeFiles/uMario.dir/uNext/Platform.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Platform.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.cpp" > CMakeFiles/uMario.dir/uNext/Platform.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Platform.cpp > CMakeFiles/uMario.dir/uNext/Platform.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Platform.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Platform.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Platform.cpp" -o CMakeFiles/uMario.dir/uNext/Platform.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Platform.cpp -o CMakeFiles/uMario.dir/uNext/Platform.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Player.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Player.cpp.o: ../uNext/Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/uMario.dir/uNext/Player.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Player.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/uMario.dir/uNext/Player.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Player.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Player.cpp
 
 CMakeFiles/uMario.dir/uNext/Player.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Player.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.cpp" > CMakeFiles/uMario.dir/uNext/Player.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Player.cpp > CMakeFiles/uMario.dir/uNext/Player.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Player.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Player.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Player.cpp" -o CMakeFiles/uMario.dir/uNext/Player.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Player.cpp -o CMakeFiles/uMario.dir/uNext/Player.cpp.s
 
 CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.o: ../uNext/PlayerFireBall.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/PlayerFireBall.cpp
 
 CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.cpp" > CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/PlayerFireBall.cpp > CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.i
 
 CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/PlayerFireBall.cpp" -o CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/PlayerFireBall.cpp -o CMakeFiles/uMario.dir/uNext/PlayerFireBall.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Points.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Points.cpp.o: ../uNext/Points.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/uMario.dir/uNext/Points.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Points.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/uMario.dir/uNext/Points.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Points.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Points.cpp
 
 CMakeFiles/uMario.dir/uNext/Points.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Points.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.cpp" > CMakeFiles/uMario.dir/uNext/Points.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Points.cpp > CMakeFiles/uMario.dir/uNext/Points.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Points.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Points.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Points.cpp" -o CMakeFiles/uMario.dir/uNext/Points.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Points.cpp -o CMakeFiles/uMario.dir/uNext/Points.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Spikey.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Spikey.cpp.o: ../uNext/Spikey.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/uMario.dir/uNext/Spikey.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Spikey.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/uMario.dir/uNext/Spikey.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Spikey.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Spikey.cpp
 
 CMakeFiles/uMario.dir/uNext/Spikey.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Spikey.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.cpp" > CMakeFiles/uMario.dir/uNext/Spikey.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Spikey.cpp > CMakeFiles/uMario.dir/uNext/Spikey.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Spikey.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Spikey.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spikey.cpp" -o CMakeFiles/uMario.dir/uNext/Spikey.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Spikey.cpp -o CMakeFiles/uMario.dir/uNext/Spikey.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Spring.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Spring.cpp.o: ../uNext/Spring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/uMario.dir/uNext/Spring.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Spring.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/uMario.dir/uNext/Spring.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Spring.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Spring.cpp
 
 CMakeFiles/uMario.dir/uNext/Spring.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Spring.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.cpp" > CMakeFiles/uMario.dir/uNext/Spring.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Spring.cpp > CMakeFiles/uMario.dir/uNext/Spring.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Spring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Spring.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Spring.cpp" -o CMakeFiles/uMario.dir/uNext/Spring.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Spring.cpp -o CMakeFiles/uMario.dir/uNext/Spring.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Sprite.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Sprite.cpp.o: ../uNext/Sprite.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/uMario.dir/uNext/Sprite.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Sprite.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/uMario.dir/uNext/Sprite.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Sprite.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Sprite.cpp
 
 CMakeFiles/uMario.dir/uNext/Sprite.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Sprite.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.cpp" > CMakeFiles/uMario.dir/uNext/Sprite.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Sprite.cpp > CMakeFiles/uMario.dir/uNext/Sprite.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Sprite.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Sprite.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Sprite.cpp" -o CMakeFiles/uMario.dir/uNext/Sprite.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Sprite.cpp -o CMakeFiles/uMario.dir/uNext/Sprite.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Squid.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Squid.cpp.o: ../uNext/Squid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/uMario.dir/uNext/Squid.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Squid.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/uMario.dir/uNext/Squid.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Squid.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Squid.cpp
 
 CMakeFiles/uMario.dir/uNext/Squid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Squid.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.cpp" > CMakeFiles/uMario.dir/uNext/Squid.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Squid.cpp > CMakeFiles/uMario.dir/uNext/Squid.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Squid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Squid.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Squid.cpp" -o CMakeFiles/uMario.dir/uNext/Squid.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Squid.cpp -o CMakeFiles/uMario.dir/uNext/Squid.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Star.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Star.cpp.o: ../uNext/Star.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/uMario.dir/uNext/Star.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Star.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/uMario.dir/uNext/Star.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Star.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Star.cpp
 
 CMakeFiles/uMario.dir/uNext/Star.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Star.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.cpp" > CMakeFiles/uMario.dir/uNext/Star.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Star.cpp > CMakeFiles/uMario.dir/uNext/Star.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Star.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Star.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Star.cpp" -o CMakeFiles/uMario.dir/uNext/Star.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Star.cpp -o CMakeFiles/uMario.dir/uNext/Star.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Text.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Text.cpp.o: ../uNext/Text.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/uMario.dir/uNext/Text.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Text.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/uMario.dir/uNext/Text.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Text.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Text.cpp
 
 CMakeFiles/uMario.dir/uNext/Text.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Text.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.cpp" > CMakeFiles/uMario.dir/uNext/Text.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Text.cpp > CMakeFiles/uMario.dir/uNext/Text.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Text.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Text.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Text.cpp" -o CMakeFiles/uMario.dir/uNext/Text.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Text.cpp -o CMakeFiles/uMario.dir/uNext/Text.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Texture.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Texture.cpp.o: ../uNext/Texture.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/uMario.dir/uNext/Texture.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Texture.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Texture.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/uMario.dir/uNext/Texture.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Texture.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Texture.cpp
 
 CMakeFiles/uMario.dir/uNext/Texture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Texture.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Texture.cpp" > CMakeFiles/uMario.dir/uNext/Texture.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Texture.cpp > CMakeFiles/uMario.dir/uNext/Texture.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Texture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Texture.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Texture.cpp" -o CMakeFiles/uMario.dir/uNext/Texture.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Texture.cpp -o CMakeFiles/uMario.dir/uNext/Texture.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Toad.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Toad.cpp.o: ../uNext/Toad.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/uMario.dir/uNext/Toad.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Toad.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/uMario.dir/uNext/Toad.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Toad.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Toad.cpp
 
 CMakeFiles/uMario.dir/uNext/Toad.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Toad.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.cpp" > CMakeFiles/uMario.dir/uNext/Toad.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Toad.cpp > CMakeFiles/uMario.dir/uNext/Toad.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Toad.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Toad.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Toad.cpp" -o CMakeFiles/uMario.dir/uNext/Toad.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Toad.cpp -o CMakeFiles/uMario.dir/uNext/Toad.cpp.s
 
 CMakeFiles/uMario.dir/uNext/UpFire.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/UpFire.cpp.o: ../uNext/UpFire.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/uMario.dir/uNext/UpFire.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/UpFire.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/uMario.dir/uNext/UpFire.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/UpFire.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/UpFire.cpp
 
 CMakeFiles/uMario.dir/uNext/UpFire.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/UpFire.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.cpp" > CMakeFiles/uMario.dir/uNext/UpFire.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/UpFire.cpp > CMakeFiles/uMario.dir/uNext/UpFire.cpp.i
 
 CMakeFiles/uMario.dir/uNext/UpFire.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/UpFire.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/UpFire.cpp" -o CMakeFiles/uMario.dir/uNext/UpFire.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/UpFire.cpp -o CMakeFiles/uMario.dir/uNext/UpFire.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Vector2.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Vector2.cpp.o: ../uNext/Vector2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/uMario.dir/uNext/Vector2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Vector2.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/uMario.dir/uNext/Vector2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Vector2.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Vector2.cpp
 
 CMakeFiles/uMario.dir/uNext/Vector2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Vector2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.cpp" > CMakeFiles/uMario.dir/uNext/Vector2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Vector2.cpp > CMakeFiles/uMario.dir/uNext/Vector2.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Vector2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Vector2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vector2.cpp" -o CMakeFiles/uMario.dir/uNext/Vector2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Vector2.cpp -o CMakeFiles/uMario.dir/uNext/Vector2.cpp.s
 
 CMakeFiles/uMario.dir/uNext/Vine.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/Vine.cpp.o: ../uNext/Vine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/uMario.dir/uNext/Vine.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Vine.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/uMario.dir/uNext/Vine.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/Vine.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Vine.cpp
 
 CMakeFiles/uMario.dir/uNext/Vine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/Vine.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.cpp" > CMakeFiles/uMario.dir/uNext/Vine.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Vine.cpp > CMakeFiles/uMario.dir/uNext/Vine.cpp.i
 
 CMakeFiles/uMario.dir/uNext/Vine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/Vine.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/Vine.cpp" -o CMakeFiles/uMario.dir/uNext/Vine.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/Vine.cpp -o CMakeFiles/uMario.dir/uNext/Vine.cpp.s
 
 CMakeFiles/uMario.dir/uNext/main.cpp.o: CMakeFiles/uMario.dir/flags.make
 CMakeFiles/uMario.dir/uNext/main.cpp.o: ../uNext/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/uMario.dir/uNext/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/main.cpp.o -c "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/uMario.dir/uNext/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/uMario.dir/uNext/main.cpp.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/main.cpp
 
 CMakeFiles/uMario.dir/uNext/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/uMario.dir/uNext/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/main.cpp" > CMakeFiles/uMario.dir/uNext/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/main.cpp > CMakeFiles/uMario.dir/uNext/main.cpp.i
 
 CMakeFiles/uMario.dir/uNext/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/uMario.dir/uNext/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext/main.cpp" -o CMakeFiles/uMario.dir/uNext/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext/main.cpp -o CMakeFiles/uMario.dir/uNext/main.cpp.s
 
 # Object files for target uMario
 uMario_OBJECTS = \
@@ -939,7 +939,7 @@ uMario: /usr/lib/x86_64-linux-gnu/libSDL2.so
 uMario: /usr/lib/x86_64-linux-gnu/libSDL2_image.so
 uMario: /usr/lib/x86_64-linux-gnu/libSDL2_mixer.so
 uMario: CMakeFiles/uMario.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_59) "Linking CXX executable uMario"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Linking CXX executable uMario"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/uMario.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -952,6 +952,6 @@ CMakeFiles/uMario.dir/clean:
 .PHONY : CMakeFiles/uMario.dir/clean
 
 CMakeFiles/uMario.dir/depend:
-	cd "/home/itisha/Desktop/BTP 4th Sem/ferMario/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/itisha/Desktop/BTP 4th Sem/ferMario" "/home/itisha/Desktop/BTP 4th Sem/ferMario" "/home/itisha/Desktop/BTP 4th Sem/ferMario/build" "/home/itisha/Desktop/BTP 4th Sem/ferMario/build" "/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/uMario.dir/DependInfo.cmake" --color=$(COLOR)
+	cd /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/itisha/Desktop/finalBtp/Btp4thSem/mario /home/itisha/Desktop/finalBtp/Btp4thSem/mario /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/uMario.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uMario.dir/depend
 

@@ -5,7 +5,7 @@
 
 #include "Map.h"
 
-class CCore
+class CCore 
 {
 private:
 	SDL_Window* window;
@@ -42,7 +42,7 @@ private:
 public:
 	CCore(void);
 	~CCore(void);
-          static int expID; 
+        static int expID; 
 	static bool quitGame;
 
 	void mainLoop();

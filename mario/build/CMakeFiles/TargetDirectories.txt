@@ -1,7 +1,7 @@
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/install/strip.dir
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/install/local.dir
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/uMario.dir
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/rebuild_cache.dir
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/edit_cache.dir
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/install.dir
-/home/itisha/Desktop/BTP 4th Sem/ferMario/build/CMakeFiles/list_install_components.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/install/strip.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/install/local.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/uMario.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/rebuild_cache.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/edit_cache.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/install.dir
+/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/list_install_components.dir

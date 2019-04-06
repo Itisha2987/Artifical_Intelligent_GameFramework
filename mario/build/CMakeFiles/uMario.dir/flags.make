@@ -6,5 +6,5 @@ CXX_FLAGS =  -Wall -Wextra -pedantic -std=c++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/include/SDL2 -I"/home/itisha/Desktop/BTP 4th Sem/ferMario/uNext" 
+CXX_INCLUDES = -I/usr/include/SDL2 -I/home/itisha/Desktop/finalBtp/Btp4thSem/mario/uNext 
 

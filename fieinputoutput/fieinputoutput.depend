@@ -7,3 +7,9 @@
 	<sys/types.h>
 	<sys/inotify.h>
 
+1554367372 source:/home/itisha/Desktop/finalBtp/Btp4thSem/fieinputoutput/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+

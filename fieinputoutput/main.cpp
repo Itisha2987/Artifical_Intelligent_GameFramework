@@ -13,10 +13,10 @@ main()
     int             j = 0;
     int             first_time = 1;
     memset(str, '\0', 128);
-    fp = fopen("/home/itisha/Desktop/finalBtp/fer/emotion.txt", "r");
+    fp = fopen("/home/itisha/Desktop/finalBtp/Btp4thSem/fer/emotion.txt", "r");
     while (1) {
             if (first_time != 1) {
-                    fp = fopen("/home/itisha/Desktop/finalBtp/fer/emotion.txt", "r");
+                    fp = fopen("/home/itisha/Desktop/finalBtp/Btp4thSem/fer/emotion.txt", "r");
                     fseek(fp, nbytes_read, SEEK_SET);
                     sleep(10);
 
