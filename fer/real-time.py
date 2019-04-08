@@ -105,11 +105,13 @@ while True:
                              key=operator.itemgetter(1))
         l.append(index)
         print(l)
-        if len(l) == 11:
+        if len(l) == 50:
             exp = statistics.mode(l)
             with open('emotion.txt', 'a+') as f:
+                 f.write('{}\n'.format(index))
+            with open('emotionCheck.txt', 'a+') as f:
                  f.write('{},{}\n'.format(index,time.time()))
-            del l[0:10]
+            del l[0:49]
             
 
 # f.write('{},{},{}\n'.format(index,value*100,time.time()))

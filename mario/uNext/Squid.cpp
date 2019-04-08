@@ -18,18 +18,17 @@ Squid::Squid(int iXPos, int iYPos) {
 	this->moveDirection = false;
 	 switch(CCore::expID){
          case 0: case 1: case 3:
-	     this->moveSpeed = 2*std::stoi(CCFG::keyIDSpeed)*0.8;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 2: case 4:
-              this->moveSpeed = 2*std::stoi(CCFG::keyIDSpeed)*1.2;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 5:
-               this->moveSpeed = 2*std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed =CCore::logisticFunc(CCore::x);
                break;
           default:
-               this->moveSpeed = 2*std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed = CCore::logisticFunc(CCore::x);
 }
-
 	this->moveXDistance = 96;
 	this->moveYDistance = 32;
 

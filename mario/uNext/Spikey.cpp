@@ -53,18 +53,18 @@ void Spikey::minionPhysics() {
 			if(iBlockID == 52) {
 				iBlockID = 51;
 				moveDirection = fXPos + iHitBoxX/2 > CCore::getMap()->getPlayer()->getXPos() - CCore::getMap()->getXPos() + CCore::getMap()->getPlayer()->getHitBoxX()/2;
-				 switch(CCore::expID){
+				  switch(CCore::expID){
          case 0: case 1: case 3:
-	     this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*0.8;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 2: case 4:
-              this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*1.2;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 5:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed =CCore::logisticFunc(CCore::x);
                break;
           default:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed = CCore::logisticFunc(CCore::x);
 }
 			}
 		}

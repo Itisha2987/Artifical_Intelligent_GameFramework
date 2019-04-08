@@ -1,26 +1,26 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
+Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4ce67/fast"
-make[1]: Entering directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_4ce67.dir/build.make CMakeFiles/cmTC_4ce67.dir/build
-make[2]: Entering directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4ce67.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_4ce67.dir/CheckSymbolExists.c.o   -c /home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_4ce67
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4ce67.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_4ce67.dir/CheckSymbolExists.c.o  -o cmTC_4ce67 
-CMakeFiles/cmTC_4ce67.dir/CheckSymbolExists.c.o: In function `main':
-CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+Run Build Command:"/usr/bin/make" "cmTC_417c8/fast"
+make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_417c8.dir/build.make CMakeFiles/cmTC_417c8.dir/build
+make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_417c8.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_417c8.dir/CheckSymbolExists.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_417c8
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_417c8.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_417c8.dir/CheckSymbolExists.c.o  -o cmTC_417c8 
+CMakeFiles/cmTC_417c8.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_4ce67.dir/build.make:97: recipe for target 'cmTC_4ce67' failed
-make[2]: *** [cmTC_4ce67] Error 1
-make[2]: Leaving directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_4ce67/fast' failed
-make[1]: *** [cmTC_4ce67/fast] Error 2
-make[1]: Leaving directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_417c8.dir/build.make:86: recipe for target 'cmTC_417c8' failed
+make[2]: *** [cmTC_417c8] Error 1
+make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_417c8/fast' failed
+make[1]: *** [cmTC_417c8/fast] Error 2
+make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
-File /home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -36,24 +36,24 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
+Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_edb5d/fast"
-make[1]: Entering directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_edb5d.dir/build.make CMakeFiles/cmTC_edb5d.dir/build
-make[2]: Entering directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_edb5d.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_edb5d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_edb5d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_edb5d.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_edb5d.dir/CheckFunctionExists.c.o  -o cmTC_edb5d -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_5a74c/fast"
+make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_5a74c.dir/build.make CMakeFiles/cmTC_5a74c.dir/build
+make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5a74c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_5a74c.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5a74c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a74c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_5a74c.dir/CheckFunctionExists.c.o  -o cmTC_5a74c -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_edb5d.dir/build.make:97: recipe for target 'cmTC_edb5d' failed
-make[2]: *** [cmTC_edb5d] Error 1
-make[2]: Leaving directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_edb5d/fast' failed
-make[1]: *** [cmTC_edb5d/fast] Error 2
-make[1]: Leaving directory '/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_5a74c.dir/build.make:86: recipe for target 'cmTC_5a74c' failed
+make[2]: *** [cmTC_5a74c] Error 1
+make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_5a74c/fast' failed
+make[1]: *** [cmTC_5a74c/fast] Error 2
+make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
 

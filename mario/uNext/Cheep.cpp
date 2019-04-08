@@ -21,34 +21,34 @@ Cheep::Cheep(int iXPos, int iYPos, int minionType, int moveSpeed, bool moveDirec
 
 	if(minionType == 1) {
 		this->minionState = 1;
-		   switch(CCore::expID){
+		    switch(CCore::expID){
          case 0: case 1: case 3:
-	     this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*0.8;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 2: case 4:
-              this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*1.2;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 5:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed =CCore::logisticFunc(CCore::x);
                break;
           default:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed = CCore::logisticFunc(CCore::x);
 }
 		this->iBlockID = 31;
 	} else if(minionType == 0) {
 		this->minionState = 0;
-		  switch(CCore::expID){
+		   switch(CCore::expID){
          case 0: case 1: case 3:
-	     this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*0.8;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 2: case 4:
-              this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*1.2;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 5:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed =CCore::logisticFunc(CCore::x);
                break;
           default:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed = CCore::logisticFunc(CCore::x);
 }
 		this->iBlockID = 30;
 	} else {

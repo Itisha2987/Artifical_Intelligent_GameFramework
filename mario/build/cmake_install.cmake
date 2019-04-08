@@ -1,4 +1,4 @@
-# Install script for directory: /home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario
+# Install script for directory: /home/itisha/Desktop/finalBtp/Btp4thSem/mario
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,25 +38,25 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  if(EXISTS "$ENV{DESTDIR}/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario" AND
-     NOT IS_SYMLINK "$ENV{DESTDIR}/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario")
+  if(EXISTS "$ENV{DESTDIR}/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario" AND
+     NOT IS_SYMLINK "$ENV{DESTDIR}/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario")
     file(RPATH_CHECK
-         FILE "$ENV{DESTDIR}/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario"
+         FILE "$ENV{DESTDIR}/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario"
          RPATH "")
   endif()
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario")
+   "/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin" TYPE EXECUTABLE FILES "/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/uMario")
-  if(EXISTS "$ENV{DESTDIR}/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario" AND
-     NOT IS_SYMLINK "$ENV{DESTDIR}/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario")
+file(INSTALL DESTINATION "/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin" TYPE EXECUTABLE FILES "/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/uMario")
+  if(EXISTS "$ENV{DESTDIR}/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario" AND
+     NOT IS_SYMLINK "$ENV{DESTDIR}/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario")
     if(CMAKE_INSTALL_DO_STRIP)
-      execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/bin/uMario")
+      execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}/home/itisha/Desktop/finalBtp/Btp4thSem/mario/bin/uMario")
     endif()
   endif()
 endif()
@@ -69,5 +69,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -43,10 +43,11 @@ public:
 	CCore(void);
 	~CCore(void);
         static int expID; 
+        static float x;
 	static bool quitGame;
 
 	void mainLoop();
-
+        static float logisticFunc(float x);
 	void Update();
 	void Draw();
  

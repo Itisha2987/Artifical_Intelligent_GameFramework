@@ -11,18 +11,18 @@ Beetle::Beetle(int iXPos, int iYPos, bool moveDirection) {
 	this->minionState = 0;
 	this->iBlockID = CCore::getMap()->getLevelType() == 0 || CCore::getMap()->getLevelType() == 4 ? 53 : CCore::getMap()->getLevelType() == 1 ? 55 : 57;
 	this->moveDirection = moveDirection;
-        switch(CCore::expID){
+       switch(CCore::expID){
          case 0: case 1: case 3:
-	     this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*0.8;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 2: case 4:
-              this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*1.2;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 5:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed =CCore::logisticFunc(CCore::x);
                break;
           default:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed = CCore::logisticFunc(CCore::x);
 }
 }
 

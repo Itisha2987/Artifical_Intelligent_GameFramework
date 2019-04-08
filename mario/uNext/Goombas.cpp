@@ -1,4 +1,5 @@
 #include "Goombas.h"
+#include <iostream>
 #include "Core.h"
 #include "string.h"
 #include "CFG.h"
@@ -10,16 +11,19 @@ Goombas::Goombas(int iX, int iY, int iBlockID, bool moveDirection) {
 	this->iBlockID = iBlockID;
 	  switch(CCore::expID){
          case 0: case 1: case 3:
-	     this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*0.8;
+              std::cout<<"jvjdvj"<<CCore::x;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 2: case 4:
-              this->moveSpeed = std::stoi(CCFG::keyIDSpeed)*1.2;
+              std::cout<<"jhdjkv"<<CCore::x;
+	      this->moveSpeed = CCore::logisticFunc(CCore::x);
               break;
          case 5:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               std::cout<<"vjdjv"<<CCore::x;
+               this->moveSpeed =CCore::logisticFunc(CCore::x);
                break;
           default:
-               this->moveSpeed = std::stoi(CCFG::keyIDSpeed);
+               this->moveSpeed = CCore::logisticFunc(CCore::x);
 }
 }
 

@@ -13,7 +13,6 @@ bool CCore::mouseRightPressed = false;
 int CCore::mouseX = 0;
 int CCore::mouseY = 0;
 bool CCore::quitGame = false;
-int CCore::expID=4;
 bool CCore::movePressed = false;
 bool CCore::keyMenuPressed = false;
 bool CCore::keyS = false;
@@ -23,7 +22,8 @@ bool CCore::keyD = false;
 bool CCore::keyShift = false;
 bool CCore::keyAPressed = false;
 bool CCore::keyDPressed = false;
-
+int CCore::expID=5;
+float CCore::x=0;
 CCore::CCore(void) {
 	this->quitGame = false;
 	this->iFPS = 0;
@@ -374,3 +374,21 @@ void CCore::resetMove() {
 Map* CCore::getMap() {
 	return oMap;
 }
+
+/********************************************/
+
+float CCore::logisticFunc(float x){
+float k;
+if(x<0)
+{
+k=-0.3*(x+10);
+return 1.0/(1.0+exp(k));
+}
+if(x>0){
+k=-0.2*(x-20);
+return (10/(1.0+exp(k)))+1;
+}
+else
+return 1;
+}
+
