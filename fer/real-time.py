@@ -7,6 +7,7 @@ import time
 import numpy as np
 import operator
 import statistics
+from statistics import mode, StatisticsError
 import os
 from keras.models import model_from_json
 
@@ -24,6 +25,8 @@ faceCascade = cv2.CascadeClassifier(cascPath)
 
 if os.path.exists("emotion.txt"):
   os.remove("emotion.txt")
+if os.path.exists("emotionCheck.txt"):
+  os.remove("emotionCheck.txt")
 
 # load json and create model arch
 
@@ -105,13 +108,20 @@ while True:
                              key=operator.itemgetter(1))
         l.append(index)
         print(l)
-        if len(l) == 50:
-            exp = statistics.mode(l)
-            with open('emotion.txt', 'a+') as f:
-                 f.write('{}\n'.format(index))
-            with open('emotionCheck.txt', 'a+') as f:
-                 f.write('{},{}\n'.format(index,time.time()))
-            del l[0:49]
+        if len(l) == 10:
+            try:
+               exp = statistics.mode(l)
+               with open('emotion.txt', 'a+') as f:
+                  f.write('{}\n'.format(exp))
+               with open('emotionCheck.txt', 'a+') as f:
+                  f.write('{},{}\n'.format(exp,time.time()))
+            except StatisticsError:
+               exp=5;
+               with open('emotion.txt', 'a+') as f:
+                  f.write('{}\n'.format(exp))
+               with open('emotionCheck.txt', 'a+') as f:
+                 f.write('{},{}\n'.format(exp,time.time()))
+            del l[0:9]
             
 
 # f.write('{},{},{}\n'.format(index,value*100,time.time()))
