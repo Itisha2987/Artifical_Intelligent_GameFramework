@@ -2711,6 +2711,7 @@ CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Cheep.h
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/CheepSpawner.h
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Coin.h
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Console.h
+CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Core.h
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Event.h
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/Fire.h
 CMakeFiles/uMario.dir/uNext/Map.cpp.o: ../uNext/FireBall.h

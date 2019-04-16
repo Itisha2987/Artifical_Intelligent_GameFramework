@@ -3,7 +3,7 @@
 #include "math.h"
 #include "stdlib.h"
 #include "time.h"
-
+#include "Core.h"
 /* ******************************************** */
 
 Map::Map(void) {
@@ -439,8 +439,8 @@ void Map::DrawGameLayout(SDL_Renderer* rR) {
 		CCFG::getText()->Draw(rR, std::to_string(oPlayer->getScore()), 54, 32);
 	}
 
-	CCFG::getText()->Draw(rR, "WORLD", 462, 16);
-	CCFG::getText()->Draw(rR, getLevelName(), 480, 32);
+	CCFG::getText()->Draw(rR, "WORLD", 402, 16);
+	CCFG::getText()->Draw(rR, getLevelName(), 415, 32);
 
 	if(iLevelType != 1) {
 		vBlock[2]->Draw(rR, 268, 32);
@@ -450,16 +450,19 @@ void Map::DrawGameLayout(SDL_Renderer* rR) {
 	CCFG::getText()->Draw(rR, "y", 286, 32);
 	CCFG::getText()->Draw(rR, (oPlayer->getCoins() < 10 ? "0" : "") + std::to_string(oPlayer->getCoins()), 302, 32);
 
-	CCFG::getText()->Draw(rR, "TIME", 672, 16);
+	CCFG::getText()->Draw(rR, "TIME", 552, 16);
 	if(CCFG::getMM()->getViewID() == CCFG::getMM()->eGame) {
 		if(iMapTime > 100) {
-			CCFG::getText()->Draw(rR, std::to_string(iMapTime), 680, 32);
+			CCFG::getText()->Draw(rR, std::to_string(iMapTime), 560, 32);
 		} else if(iMapTime > 10) {
-			CCFG::getText()->Draw(rR, "0" + std::to_string(iMapTime), 680, 32);
+			CCFG::getText()->Draw(rR, "0" + std::to_string(iMapTime), 560, 32);
 		} else {
-			CCFG::getText()->Draw(rR, "00" + std::to_string(iMapTime), 680, 32);
+			CCFG::getText()->Draw(rR, "00" + std::to_string(iMapTime), 560, 32);
 		}
 	}
+
+        CCFG::getText()->Draw(rR, "  SPEED", 632, 16);
+	CCFG::getText()->Draw(rR,std::to_string(CCore::logisticFunc(CCore::x)), 640, 32);
 }
 
 void Map::DrawLines(SDL_Renderer* rR) {

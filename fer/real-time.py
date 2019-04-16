@@ -67,6 +67,8 @@ def predict_emotion(face_image_gray):  # a single cropped face
 
 
 video_capture = cv2.VideoCapture(0)
+video_capture.set(cv2.CAP_PROP_FRAME_WIDTH, 100)
+video_capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 100)
 while True:
 
     # Capture frame-by-frame

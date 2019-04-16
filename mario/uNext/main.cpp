@@ -38,6 +38,8 @@ void threadFunc() {
             break;
           case 2:
           case 4:
+            if(CCore::x<0)
+            CCore::x=0;
             CCore::x = CCore::x + 2.5;
             break;
           case 5:
