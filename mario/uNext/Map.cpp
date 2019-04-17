@@ -425,18 +425,35 @@ void Map::DrawMinions(SDL_Renderer* rR) {
 }
 
 void Map::DrawGameLayout(SDL_Renderer* rR) {
-	CCFG::getText()->Draw(rR, "MARIO", 54, 16);
+	 switch (CCore::expID) {
+          case 0:
+          case 1:
+          case 3:
+            CCFG::getText()->Draw(rR, "SAD", 24, 16);
+            break;
+          case 2:
+          case 4:
+           CCFG::getText()->Draw(rR, "HAPPY", 24, 16);
+            break;
+          case 5:
+           CCFG::getText()->Draw(rR, "NEUTRAL", 24, 16);
+            break;
+
+          }
+
+
+       CCFG::getText()->Draw(rR, "MARIO", 124, 16);
 
 	if(oPlayer->getScore() < 100) {
-		CCFG::getText()->Draw(rR, "00000" + std::to_string(oPlayer->getScore()), 54, 32);
+		CCFG::getText()->Draw(rR, "00000" + std::to_string(oPlayer->getScore()), 124, 32);
 	} else if(oPlayer->getScore() < 1000) {
-		CCFG::getText()->Draw(rR, "000" + std::to_string(oPlayer->getScore()), 54, 32);
+		CCFG::getText()->Draw(rR, "000" + std::to_string(oPlayer->getScore()), 124, 32);
 	} else if(oPlayer->getScore() < 10000) {
-		CCFG::getText()->Draw(rR, "00" + std::to_string(oPlayer->getScore()), 54, 32);
+		CCFG::getText()->Draw(rR, "00" + std::to_string(oPlayer->getScore()), 124, 32);
 	} else if(oPlayer->getScore() < 100000) {
-		CCFG::getText()->Draw(rR, "0" + std::to_string(oPlayer->getScore()), 54, 32);
+		CCFG::getText()->Draw(rR, "0" + std::to_string(oPlayer->getScore()), 124, 32);
 	} else {
-		CCFG::getText()->Draw(rR, std::to_string(oPlayer->getScore()), 54, 32);
+		CCFG::getText()->Draw(rR, std::to_string(oPlayer->getScore()), 124, 32);
 	}
 
 	CCFG::getText()->Draw(rR, "WORLD", 402, 16);
