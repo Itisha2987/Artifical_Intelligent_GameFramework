@@ -149,7 +149,7 @@ void Event::Normal() {
 							CCore::getMap()->setInEvent(false);
 							inEvent = false;
 							CCore::getMap()->getPlayer()->stopMove();
-							
+							CCore::x = 0;
 							CCFG::getMM()->getLoadingMenu()->loadingType = false;
 							CCFG::getMM()->getLoadingMenu()->updateTime();
 							CCFG::getMM()->setViewID(CCFG::getMM()->eGameLoading);

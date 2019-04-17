@@ -1,7 +1,7 @@
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/install/strip.dir
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/install/local.dir
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/uMario.dir
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/rebuild_cache.dir
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/edit_cache.dir
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/install.dir
-/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/list_install_components.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/install/strip.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/edit_cache.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/uMario.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/rebuild_cache.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/list_install_components.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/install/local.dir
+/home/karan-modh/Desktop/Desktop_Items/BTP-4thSem/Btp4thSem/mario/build/CMakeFiles/install.dir
