@@ -43,7 +43,7 @@ Player::Player(SDL_Renderer* rR, float fXPos, float fYPos) {
 	this->iTimePassed = SDL_GetTicks();
 
 	this->jumpState = 0;
-	this->startJumpSpeed = 7.65f;
+	this->startJumpSpeed = 8.5f;
 	this->currentFallingSpeed = 2.7f;
 
 	this->iMoveAnimationTime = 0;

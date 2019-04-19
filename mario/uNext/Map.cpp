@@ -10327,6 +10327,7 @@ void Map::setSpawnPointID(int iSpawnPointID) {
 }
 
 int Map::getMapTime() {
+ 
 	return iMapTime;
 }
 
@@ -10385,3 +10386,319 @@ MapLevel* Map::getMapBlock(int iX, int iY) {
 Flag* Map::getFlag() {
 	return oFlag;
 }
+
+void Map::mushroomloadMinionsLVL_1_1() {
+	clearMinions();
+
+	
+        addGoombas(1280, 368, true);
+
+	addGoombas(1632, 368, true);
+	addGoombas(1680, 368, true);
+
+	addGoombas(2560, 112, true);
+	addGoombas(2624, 112, true);
+
+	addGoombas(3104, 368, true);
+	addGoombas(3152, 368, true);
+
+	addKoppa(107*32, 368, 1, true);
+
+	addGoombas(3648, 368, true);
+	addGoombas(3696, 368, true);
+
+	addGoombas(3968, 368, true);
+	addGoombas(4016, 368, true);
+
+	addGoombas(4096, 368, true);
+	addGoombas(4144, 368, true);
+
+	addGoombas(5568, 368, true);
+	addGoombas(5612, 368, true);
+}
+
+void Map::oneUploadMinionsLVL_1_1() {
+	clearMinions();
+
+	addGoombas(2560, 112, true);
+	addGoombas(2624, 112, true);
+
+	addGoombas(3104, 368, true);
+	addGoombas(3152, 368, true);
+
+	addKoppa(107*32, 368, 1, true);
+
+	addGoombas(3648, 368, true);
+	addGoombas(3696, 368, true);
+
+	addGoombas(3968, 368, true);
+	addGoombas(4016, 368, true);
+
+	addGoombas(4096, 368, true);
+	addGoombas(4144, 368, true);
+
+	addGoombas(5568, 368, true);
+	addGoombas(5612, 368, true);
+}
+
+void Map::starloadMinionsLVL_1_1() {
+	clearMinions();
+
+	addGoombas(3104, 368, true);
+	addGoombas(3152, 368, true);
+
+	addGoombas(3648, 368, true);
+	addGoombas(3696, 368, true);
+
+	addGoombas(3968, 368, true);
+	addGoombas(4016, 368, true);
+
+	addGoombas(4096, 368, true);
+	addGoombas(4144, 368, true);
+
+	addGoombas(5568, 368, true);
+	addGoombas(5612, 368, true);
+}
+
+void Map::flowerloadMinionsLVL_1_1() {
+	clearMinions();
+
+	
+        addGoombas(3648, 368, true);
+	addGoombas(3696, 368, true);
+
+	addGoombas(3968, 368, true);
+	addGoombas(4016, 368, true);
+
+	addGoombas(4096, 368, true);
+	addGoombas(4144, 368, true);
+
+	addGoombas(5568, 368, true);
+	addGoombas(5612, 368, true);
+}
+
+
+void Map::mushroomReloadMinion(){
+switch(currentLevelID){
+case 0:
+CCore::getMap()->mushroomloadMinionsLVL_1_1();
+break;
+case 1:
+CCore::getMap()->loadMinionsLVL_1_2();
+break;
+case 2:
+CCore::getMap()->loadMinionsLVL_1_3();
+break;
+case 3:
+CCore::getMap()->loadMinionsLVL_1_4();
+break;
+case 4:
+CCore::getMap()->loadMinionsLVL_2_1();
+break;
+case 5:
+CCore::getMap()->loadMinionsLVL_2_2();
+break;
+case 6:
+CCore::getMap()->loadMinionsLVL_2_3();
+break;
+case 7:
+CCore::getMap()->loadMinionsLVL_2_4();
+break;
+case 8:
+CCore::getMap()->loadMinionsLVL_3_1();
+break;
+case 9:
+CCore::getMap()->loadMinionsLVL_3_2();
+break;
+case 10:
+CCore::getMap()->loadMinionsLVL_3_3();
+break;
+case 11:
+CCore::getMap()->loadMinionsLVL_3_4();
+break;
+case 12:
+CCore::getMap()->loadMinionsLVL_4_1();
+break;
+case 13:
+CCore::getMap()->loadMinionsLVL_4_2();
+break;
+case 14:
+CCore::getMap()->loadMinionsLVL_4_3();
+break;
+case 15:
+CCore::getMap()->loadMinionsLVL_4_4();
+break;
+}
+}
+
+void Map::oneUpReloadMinion(){
+switch(currentLevelID){
+case 0:
+CCore::getMap()->oneUploadMinionsLVL_1_1();
+break;
+case 1:
+CCore::getMap()->loadMinionsLVL_1_2();
+break;
+case 2:
+CCore::getMap()->loadMinionsLVL_1_3();
+break;
+case 3:
+CCore::getMap()->loadMinionsLVL_1_4();
+break;
+case 4:
+CCore::getMap()->loadMinionsLVL_2_1();
+break;
+case 5:
+CCore::getMap()->loadMinionsLVL_2_2();
+break;
+case 6:
+CCore::getMap()->loadMinionsLVL_2_3();
+break;
+case 7:
+CCore::getMap()->loadMinionsLVL_2_4();
+break;
+case 8:
+CCore::getMap()->loadMinionsLVL_3_1();
+break;
+case 9:
+CCore::getMap()->loadMinionsLVL_3_2();
+break;
+case 10:
+CCore::getMap()->loadMinionsLVL_3_3();
+break;
+case 11:
+CCore::getMap()->loadMinionsLVL_3_4();
+break;
+case 12:
+CCore::getMap()->loadMinionsLVL_4_1();
+break;
+case 13:
+CCore::getMap()->loadMinionsLVL_4_2();
+break;
+case 14:
+CCore::getMap()->loadMinionsLVL_4_3();
+break;
+case 15:
+CCore::getMap()->loadMinionsLVL_4_4();
+break;
+}
+}
+
+void Map::starReloadMinion(){
+switch(currentLevelID){
+case 0:
+CCore::getMap()->starloadMinionsLVL_1_1();
+break;
+case 1:
+CCore::getMap()->loadMinionsLVL_1_2();
+break;
+case 2:
+CCore::getMap()->loadMinionsLVL_1_3();
+break;
+case 3:
+CCore::getMap()->loadMinionsLVL_1_4();
+break;
+case 4:
+CCore::getMap()->loadMinionsLVL_2_1();
+break;
+case 5:
+CCore::getMap()->loadMinionsLVL_2_2();
+break;
+case 6:
+CCore::getMap()->loadMinionsLVL_2_3();
+break;
+case 7:
+CCore::getMap()->loadMinionsLVL_2_4();
+break;
+case 8:
+CCore::getMap()->loadMinionsLVL_3_1();
+break;
+case 9:
+CCore::getMap()->loadMinionsLVL_3_2();
+break;
+case 10:
+CCore::getMap()->loadMinionsLVL_3_3();
+break;
+case 11:
+CCore::getMap()->loadMinionsLVL_3_4();
+break;
+case 12:
+CCore::getMap()->loadMinionsLVL_4_1();
+break;
+case 13:
+CCore::getMap()->loadMinionsLVL_4_2();
+break;
+case 14:
+CCore::getMap()->loadMinionsLVL_4_3();
+break;
+case 15:
+CCore::getMap()->loadMinionsLVL_4_4();
+break;
+}
+}
+
+void Map::flowerReloadMinion(){
+switch(currentLevelID){
+case 0:
+CCore::getMap()->flowerloadMinionsLVL_1_1();
+break;
+case 1:
+CCore::getMap()->loadMinionsLVL_1_2();
+break;
+case 2:
+CCore::getMap()->loadMinionsLVL_1_3();
+break;
+case 3:
+CCore::getMap()->loadMinionsLVL_1_4();
+break;
+case 4:
+CCore::getMap()->loadMinionsLVL_2_1();
+break;
+case 5:
+CCore::getMap()->loadMinionsLVL_2_2();
+break;
+case 6:
+CCore::getMap()->loadMinionsLVL_2_3();
+break;
+case 7:
+CCore::getMap()->loadMinionsLVL_2_4();
+break;
+case 8:
+CCore::getMap()->loadMinionsLVL_3_1();
+break;
+case 9:
+CCore::getMap()->loadMinionsLVL_3_2();
+break;
+case 10:
+CCore::getMap()->loadMinionsLVL_3_3();
+break;
+case 11:
+CCore::getMap()->loadMinionsLVL_3_4();
+break;
+case 12:
+CCore::getMap()->loadMinionsLVL_4_1();
+break;
+case 13:
+CCore::getMap()->loadMinionsLVL_4_2();
+break;
+case 14:
+CCore::getMap()->loadMinionsLVL_4_3();
+break;
+case 15:
+CCore::getMap()->loadMinionsLVL_4_4();
+break;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

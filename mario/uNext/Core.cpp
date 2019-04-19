@@ -386,9 +386,13 @@ return 1.0/(1.0+exp(k));
 }
 if(x>0){
 k=-0.2*(x-20);
-return (10/(1.0+exp(k)))+1;
+return (9/(1.0+exp(k)))+1;
 }
 else
 return 1;
 }
+
+
+
+
 

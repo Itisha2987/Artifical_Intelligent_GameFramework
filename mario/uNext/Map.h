@@ -68,7 +68,7 @@ private:
 
 	std::vector<Bubble*> lBubble;
 
-	int currentLevelID;
+        int currentLevelID;
 	int iLevelType; // 0, 1, 2;
 	bool underWater;
 
@@ -159,7 +159,7 @@ private:
 	void loadLVL_8_3();
 	void loadLVL_8_4();
 
-	void loadMinionsLVL_1_1();
+	
 	void loadMinionsLVL_1_2();
 	void loadMinionsLVL_1_3();
 	void loadMinionsLVL_1_4();
@@ -209,7 +209,11 @@ private:
 	void loadPipeEventsLVL_8_1();
 	void loadPipeEventsLVL_8_2();
 	void loadPipeEventsLVL_8_4();
-
+        
+       void mushroomloadMinionsLVL_1_1();
+       void starloadMinionsLVL_1_1();
+       void oneUploadMinionsLVL_1_1();
+       void flowerloadMinionsLVL_1_1();
 	void clearLevelText();
 
 	void pipeUse();
@@ -231,9 +235,12 @@ public:
 	Map(void);
 	Map(SDL_Renderer* rR);
 	~Map(void);
-
+       void mushroomReloadMinion();
+void starReloadMinion();
+void flowerReloadMinion();
+void oneUpReloadMinion();
 	void Update();
-
+        void loadMinionsLVL_1_1();
 	void UpdatePlayer();
 	void UpdateMinions();
 	void UpdateMinionsCollisions();

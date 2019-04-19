@@ -104,6 +104,7 @@ void Star::Draw(SDL_Renderer* rR, CIMG* iIMG) {
 /* ******************************************** */
 
 void Star::collisionWithPlayer(bool TOP) {
+CCore::getMap()->starReloadMinion();
 	if(!inSpawnState) {
 		CCore::getMap()->getPlayer()->setStarEffect(true);
 		minionState = -1;

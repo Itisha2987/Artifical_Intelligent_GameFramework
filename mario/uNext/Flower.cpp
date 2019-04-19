@@ -69,6 +69,7 @@ void Flower::Draw(SDL_Renderer* rR, CIMG* iIMG) {
 /* ******************************************** */
 
 void Flower::collisionWithPlayer(bool TOP) {
+CCore::getMap()->flowerReloadMinion();
 	if(!inSpawnState && minionState >= 0) {
 		CCore::getMap()->getPlayer()->setPowerLVL(CCore::getMap()->getPlayer()->getPowerLVL() + 1);
 		minionState = -1;

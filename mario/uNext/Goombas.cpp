@@ -11,16 +11,16 @@ Goombas::Goombas(int iX, int iY, int iBlockID, bool moveDirection) {
 	this->iBlockID = iBlockID;
 	  switch(CCore::expID){
          case 0: case 1: case 3:
-              std::cout<<"jvjdvj"<<CCore::x;
 	      this->moveSpeed = CCore::logisticFunc(CCore::x);
+              std::cout<<moveSpeed<<"sad";
               break;
          case 2: case 4:
-              std::cout<<"jhdjkv"<<CCore::x;
 	      this->moveSpeed = CCore::logisticFunc(CCore::x);
+              std::cout<<moveSpeed<<"happy";
               break;
          case 5:
-               std::cout<<"vjdjv"<<CCore::x;
                this->moveSpeed =CCore::logisticFunc(CCore::x);
+               std::cout<<moveSpeed<<"neutral";
                break;
           default:
                this->moveSpeed = CCore::logisticFunc(CCore::x);

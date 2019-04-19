@@ -45,7 +45,7 @@ public:
         static int expID; 
         static float x;
 	static bool quitGame;
-
+       
 	void mainLoop();
         static float logisticFunc(float x);
 	void Update();

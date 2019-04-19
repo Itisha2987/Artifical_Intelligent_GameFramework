@@ -28,15 +28,15 @@ The CXX compiler identification is GNU, found in "/home/itisha/Desktop/finalBtp/
 Determining if the C compiler works passed with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7a3c0/fast"
+Run Build Command:"/usr/bin/make" "cmTC_eaa1d/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_7a3c0.dir/build.make CMakeFiles/cmTC_7a3c0.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_eaa1d.dir/build.make CMakeFiles/cmTC_eaa1d.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7a3c0.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_7a3c0.dir/testCCompiler.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_7a3c0
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a3c0.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_7a3c0.dir/testCCompiler.c.o  -o cmTC_7a3c0 
+Building C object CMakeFiles/cmTC_eaa1d.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_eaa1d.dir/testCCompiler.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_eaa1d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eaa1d.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_eaa1d.dir/testCCompiler.c.o  -o cmTC_eaa1d 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -44,15 +44,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_53fc9/fast"
+Run Build Command:"/usr/bin/make" "cmTC_db5ae/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_53fc9.dir/build.make CMakeFiles/cmTC_53fc9.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_db5ae.dir/build.make CMakeFiles/cmTC_db5ae.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_53fc9
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53fc9.dir/link.txt --verbose=1
-/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o  -o cmTC_53fc9 
+Building C object CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_db5ae
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db5ae.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o  -o cmTC_db5ae 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -62,8 +62,8 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_53fc9' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccpfPjQI.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_53fc9 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_db5ae' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc4g8oiA.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_db5ae /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -72,15 +72,15 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_53fc9/fast"]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_db5ae/fast"]
   ignore line: [make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp']
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_53fc9.dir/build.make CMakeFiles/cmTC_53fc9.dir/build]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_db5ae.dir/build.make CMakeFiles/cmTC_db5ae.dir/build]
   ignore line: [make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_53fc9]
-  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53fc9.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o  -o cmTC_53fc9 ]
+  ignore line: [Building C object CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_db5ae]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_db5ae.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o  -o cmTC_db5ae ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -90,13 +90,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_53fc9' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccpfPjQI.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_53fc9 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_db5ae' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc4g8oiA.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_db5ae /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccpfPjQI.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc4g8oiA.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -114,7 +114,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_53fc9] ==> ignore
+    arg [cmTC_db5ae] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -126,7 +126,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_53fc9.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_db5ae.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -156,15 +156,15 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_3d569/fast"
+Run Build Command:"/usr/bin/make" "cmTC_80910/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_3d569.dir/build.make CMakeFiles/cmTC_3d569.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_80910.dir/build.make CMakeFiles/cmTC_80910.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_3d569.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_3d569.dir/feature_tests.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_3d569
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3d569.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_3d569.dir/feature_tests.c.o  -o cmTC_3d569 
+Building C object CMakeFiles/cmTC_80910.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_80910.dir/feature_tests.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_80910
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80910.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_80910.dir/feature_tests.c.o  -o cmTC_80910 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -178,15 +178,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a4d8c/fast"
+Run Build Command:"/usr/bin/make" "cmTC_52e3d/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_a4d8c.dir/build.make CMakeFiles/cmTC_a4d8c.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_52e3d.dir/build.make CMakeFiles/cmTC_52e3d.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_a4d8c.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_a4d8c.dir/feature_tests.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_a4d8c
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a4d8c.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_a4d8c.dir/feature_tests.c.o  -o cmTC_a4d8c 
+Building C object CMakeFiles/cmTC_52e3d.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_52e3d.dir/feature_tests.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_52e3d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_52e3d.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_52e3d.dir/feature_tests.c.o  -o cmTC_52e3d 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -200,15 +200,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b3b58/fast"
+Run Build Command:"/usr/bin/make" "cmTC_a36f3/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_b3b58.dir/build.make CMakeFiles/cmTC_b3b58.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_a36f3.dir/build.make CMakeFiles/cmTC_a36f3.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b3b58.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_b3b58.dir/feature_tests.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_b3b58
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b3b58.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_b3b58.dir/feature_tests.c.o  -o cmTC_b3b58 
+Building C object CMakeFiles/cmTC_a36f3.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_a36f3.dir/feature_tests.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_a36f3
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a36f3.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_a36f3.dir/feature_tests.c.o  -o cmTC_a36f3 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -220,15 +220,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_64b9e/fast"
+Run Build Command:"/usr/bin/make" "cmTC_c2e52/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_64b9e.dir/build.make CMakeFiles/cmTC_64b9e.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_c2e52.dir/build.make CMakeFiles/cmTC_c2e52.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_64b9e.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_64b9e.dir/testCXXCompiler.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_64b9e
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_64b9e.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_64b9e.dir/testCXXCompiler.cxx.o  -o cmTC_64b9e 
+Building CXX object CMakeFiles/cmTC_c2e52.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_c2e52.dir/testCXXCompiler.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_c2e52
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c2e52.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_c2e52.dir/testCXXCompiler.cxx.o  -o cmTC_c2e52 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -236,15 +236,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5d20b/fast"
+Run Build Command:"/usr/bin/make" "cmTC_24a4c/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_5d20b.dir/build.make CMakeFiles/cmTC_5d20b.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_24a4c.dir/build.make CMakeFiles/cmTC_24a4c.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_5d20b
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5d20b.dir/link.txt --verbose=1
-/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_5d20b 
+Building CXX object CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_24a4c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_24a4c.dir/link.txt --verbose=1
+/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_24a4c 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -254,8 +254,8 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_5d20b' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccFXiqRg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_5d20b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_24a4c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccL71dzX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_24a4c /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -264,15 +264,15 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_5d20b/fast"]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_24a4c/fast"]
   ignore line: [make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp']
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_5d20b.dir/build.make CMakeFiles/cmTC_5d20b.dir/build]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_24a4c.dir/build.make CMakeFiles/cmTC_24a4c.dir/build]
   ignore line: [make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_5d20b]
-  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5d20b.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_5d20b ]
+  ignore line: [Building CXX object CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_24a4c]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_24a4c.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_24a4c ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -282,13 +282,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.11) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_5d20b' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccFXiqRg.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_5d20b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_24a4c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccL71dzX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_24a4c /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccFXiqRg.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccL71dzX.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -306,7 +306,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_5d20b] ==> ignore
+    arg [cmTC_24a4c] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -318,7 +318,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_5d20b.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_24a4c.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -346,15 +346,15 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_98bf6/fast"
+Run Build Command:"/usr/bin/make" "cmTC_b030c/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_98bf6.dir/build.make CMakeFiles/cmTC_98bf6.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_b030c.dir/build.make CMakeFiles/cmTC_b030c.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_98bf6.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_98bf6.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_98bf6
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_98bf6.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_98bf6.dir/feature_tests.cxx.o  -o cmTC_98bf6 
+Building CXX object CMakeFiles/cmTC_b030c.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_b030c.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_b030c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b030c.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_b030c.dir/feature_tests.cxx.o  -o cmTC_b030c 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -421,15 +421,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_53670/fast"
+Run Build Command:"/usr/bin/make" "cmTC_3e4ec/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_53670.dir/build.make CMakeFiles/cmTC_53670.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_3e4ec.dir/build.make CMakeFiles/cmTC_3e4ec.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_53670.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_53670.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_53670
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53670.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_53670.dir/feature_tests.cxx.o  -o cmTC_53670 
+Building CXX object CMakeFiles/cmTC_3e4ec.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_3e4ec.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_3e4ec
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e4ec.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_3e4ec.dir/feature_tests.cxx.o  -o cmTC_3e4ec 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -496,15 +496,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e60f2/fast"
+Run Build Command:"/usr/bin/make" "cmTC_01c40/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_e60f2.dir/build.make CMakeFiles/cmTC_e60f2.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_01c40.dir/build.make CMakeFiles/cmTC_01c40.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e60f2.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_e60f2.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_e60f2
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e60f2.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_e60f2.dir/feature_tests.cxx.o  -o cmTC_e60f2 
+Building CXX object CMakeFiles/cmTC_01c40.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_01c40.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_01c40
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_01c40.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_01c40.dir/feature_tests.cxx.o  -o cmTC_01c40 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -571,15 +571,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_03212/fast"
+Run Build Command:"/usr/bin/make" "cmTC_2c3d2/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_03212.dir/build.make CMakeFiles/cmTC_03212.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_2c3d2.dir/build.make CMakeFiles/cmTC_2c3d2.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_03212.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_03212.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_03212
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_03212.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_03212.dir/feature_tests.cxx.o  -o cmTC_03212 
+Building CXX object CMakeFiles/cmTC_2c3d2.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_2c3d2.dir/feature_tests.cxx.o -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_2c3d2
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c3d2.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_2c3d2.dir/feature_tests.cxx.o  -o cmTC_2c3d2 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -644,15 +644,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Determining if the include file pthread.h exists passed with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ca602/fast"
+Run Build Command:"/usr/bin/make" "cmTC_fab96/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_ca602.dir/build.make CMakeFiles/cmTC_ca602.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_fab96.dir/build.make CMakeFiles/cmTC_fab96.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_ca602.dir/CheckIncludeFile.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_ca602.dir/CheckIncludeFile.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_ca602
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ca602.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_ca602.dir/CheckIncludeFile.c.o  -o cmTC_ca602 
+Building C object CMakeFiles/cmTC_fab96.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_fab96.dir/CheckIncludeFile.c.o   -c /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_fab96
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fab96.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_fab96.dir/CheckIncludeFile.c.o  -o cmTC_fab96 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
@@ -660,15 +660,15 @@ make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/
 Determining if the function pthread_create exists in the pthread passed with the following output:
 Change Dir: /home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c17d0/fast"
+Run Build Command:"/usr/bin/make" "cmTC_a308b/fast"
 make[1]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_c17d0.dir/build.make CMakeFiles/cmTC_c17d0.dir/build
+/usr/bin/make -f CMakeFiles/cmTC_a308b.dir/build.make CMakeFiles/cmTC_a308b.dir/build
 make[2]: Entering directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c17d0.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_c17d0.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.13/Modules/CheckFunctionExists.c
-Linking C executable cmTC_c17d0
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c17d0.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_c17d0.dir/CheckFunctionExists.c.o  -o cmTC_c17d0 -lpthread 
+Building C object CMakeFiles/cmTC_a308b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_a308b.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a308b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a308b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_a308b.dir/CheckFunctionExists.c.o  -o cmTC_a308b -lpthread 
 make[2]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 make[1]: Leaving directory '/home/itisha/Desktop/finalBtp/Btp4thSem/mario/build/CMakeFiles/CMakeTmp'
 
