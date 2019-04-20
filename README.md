@@ -1,4 +1,6 @@
-# Intelligent Game Framework based on Facial Features &nbsp;&nbsp;&nbsp; ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![C++ 14](https://img.shields.io/badge/C%2B%2B-14-blue.svg)
+# ![Logo](images_videos/IM_png.png) &nbsp;&nbsp;Interactive Mario
+
+## Intelligent Game Framework based on Facial Features &nbsp;&nbsp;&nbsp; ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![C++ 14](https://img.shields.io/badge/C%2B%2B-14-blue.svg)
 
 ### Purpose
 - To create a framework that changes the game's features based on the emotions of the user.
