@@ -1,4 +1,4 @@
-# ![Logo](images_videos/IM_png.png) &nbsp;&nbsp;Interactive Mario
+# ![Logo](images_videos/IM_png_1.png) &nbsp;&nbsp;Interactive Mario
 
 ## Intelligent Game Framework based on Facial Features &nbsp;&nbsp;&nbsp; ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg) ![C++ 14](https://img.shields.io/badge/C%2B%2B-14-blue.svg)
 
@@ -9,9 +9,10 @@
 
 Requirements : 
  - Python 3.6 (runtime)
- - C++
+ - C++ / Sdl2
  - CMake
- - Other dependencies in `requirements.txt`
+ - OpenCV
+ - Keras / Tensorflow
 
 Procedure :
 - Install [Python](https://www.python.org/downloads/) in your environment(pre-installed on Ubuntu).
@@ -19,7 +20,7 @@ Procedure :
     ```
     cd <project_directory_name>     #   Btp4thSem
     ```
-- Run &nbsp; ```pip3 install -r requirements.txt``` &nbsp;to install all the dependencies.
+- Run &nbsp; ```./install.sh``` &nbsp;to install all the dependencies.
 - Once all the dependencies are installed , then follow the following steps : 
     ```
     cd mario/
