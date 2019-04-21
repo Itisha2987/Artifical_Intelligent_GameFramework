@@ -34,11 +34,13 @@ void threadFunc() {
           case 0:
           case 1:
           case 3:
-            CCore::x = CCore::x - 1.5;
+            CCore::x = CCore::x - 0.75;
             CCore::getMap()->changeMinions();
             break;
           case 2:
           case 4:
+            if(CCore::x<1)
+            CCore::x=1;
             CCore::x = CCore::x + 1.5;
             CCore::getMap()->changeMinions();
             break;

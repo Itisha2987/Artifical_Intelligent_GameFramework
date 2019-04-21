@@ -382,10 +382,10 @@ float k;
 if(x<0)
 {
 k=-0.3*(x+10);
-return 1.0/(1.0+exp(k));
+return 1/(1.0+exp(k))+0.04;
 }
 if(x>0){
-k=-0.2*(x-20);
+k=-0.075*(x-30);
 return (9/(1.0+exp(k)))+1;
 }
 else

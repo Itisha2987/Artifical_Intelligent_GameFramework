@@ -67,7 +67,8 @@ def predict_emotion(face_image_gray):  # a single cropped face
 
 
 video_capture = cv2.VideoCapture(0)
-
+video_capture.set(cv2.CAP_PROP_FRAME_WIDTH, 360);
+video_capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 200);
 while True:
 
     # Capture frame-by-frame
@@ -109,7 +110,7 @@ while True:
                              key=operator.itemgetter(1))
         l.append(index)
         print(l)
-        if len(l) == 20:
+        if len(l) == 10:
             try:
                exp = statistics.mode(l)
                with open('emotion.txt', 'a+') as f:
@@ -122,7 +123,7 @@ while True:
                   f.write('{}\n'.format(exp))
                with open('emotionCheck.txt', 'a+') as f:
                  f.write('{},{}\n'.format(exp,time.time()))
-            del l[0:19]
+            del l[0:9]
             
 
 # f.write('{},{},{}\n'.format(index,value*100,time.time()))
