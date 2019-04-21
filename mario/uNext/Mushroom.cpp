@@ -82,12 +82,12 @@ void Mushroom::Draw(SDL_Renderer* rR, CIMG* iIMG) {
 void Mushroom::collisionWithPlayer(bool TOP) {
      if(!inSpawnState && minionState == 0) {
 		if(powerUP) {
-                        CCore::getMap()->mushroomReloadMinion();
+                        CCore::getMap()->changeMinions();
 			CCore::getMap()->getPlayer()->setPowerLVL(CCore::getMap()->getPlayer()->getPowerLVL() + 1);
 		} else {
 			CCore::getMap()->getPlayer()->setNumOfLives(CCore::getMap()->getPlayer()->getNumOfLives() + 1);
 			CCore::getMap()->addPoints((int)fXPos, (int)fYPos, "1UP", 10, 14);
-                        CCore::getMap()->oneUpReloadMinion();
+                        CCore::getMap()->changeMinions();
 			CCFG::getMusic()->PlayChunk(CCFG::getMusic()->cONEUP);
 		}
 		minionState = -1;

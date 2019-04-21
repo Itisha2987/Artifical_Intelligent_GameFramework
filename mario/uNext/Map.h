@@ -210,10 +210,7 @@ private:
 	void loadPipeEventsLVL_8_2();
 	void loadPipeEventsLVL_8_4();
         
-       void mushroomloadMinionsLVL_1_1();
-       void starloadMinionsLVL_1_1();
-       void oneUploadMinionsLVL_1_1();
-       void flowerloadMinionsLVL_1_1();
+       
 	void clearLevelText();
 
 	void pipeUse();
@@ -235,10 +232,8 @@ public:
 	Map(void);
 	Map(SDL_Renderer* rR);
 	~Map(void);
-       void mushroomReloadMinion();
-void starReloadMinion();
-void flowerReloadMinion();
-void oneUpReloadMinion();
+   
+        void changeMinions();
 	void Update();
         void loadMinionsLVL_1_1();
 	void UpdatePlayer();

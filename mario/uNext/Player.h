@@ -17,7 +17,7 @@ private:
 
 	CIMG* tMarioLVLUP;
 
-	float fXPos, fYPos;
+	
 	int iNumOfLives;
 
 	bool unKillAble;
@@ -102,7 +102,7 @@ private:
 public:
 	Player(SDL_Renderer* rR, float fXPos, float fYPos);
 	~Player(void);
-
+        float fXPos, fYPos;
 	void Draw(SDL_Renderer* rR);
 	void Update();
 
