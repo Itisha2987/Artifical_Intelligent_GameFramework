@@ -17,11 +17,13 @@ void threadFunc() {
   int first_time = 1;
   memset(str, '\0', 128);
   fp = fopen("../../fer/emotion.txt", "r");
+  int i=0;
   while (1) {
+    i++;
     if (first_time != 1) {
       fp = fopen("../../fer/emotion.txt", "r");
       fseek(fp, nbytes_read, SEEK_SET);
-      sleep(10);
+      sleep(5);
 
     }
     if (fp != NULL) {
@@ -35,22 +37,22 @@ void threadFunc() {
           case 1:
           case 3:
             CCore::x = CCore::x - 0.75;
-            CCore::getMap()->changeMinions();
             break;
           case 2:
           case 4:
             if(CCore::x<1)
             CCore::x=1;
             CCore::x = CCore::x + 1.5;
-            CCore::getMap()->changeMinions();
+            //CCore::getMap()->changeMinions();
             break;
           case 5:
             CCore::x = CCore::x;
-            CCore::getMap()->changeMinions();
+            //CCore::getMap()->changeMinions();
             break;
 
           }
-
+          if(i>1)
+          CCore::getMap()->changeMinions();
           memset(str, '\0', 128);
           j = 0;
         } else {

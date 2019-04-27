@@ -110,7 +110,7 @@ while True:
                              key=operator.itemgetter(1))
         l.append(index)
         print(l)
-        if len(l) == 10:
+        if len(l) == 20:
             try:
                exp = statistics.mode(l)
                with open('emotion.txt', 'a+') as f:
@@ -123,7 +123,7 @@ while True:
                   f.write('{}\n'.format(exp))
                with open('emotionCheck.txt', 'a+') as f:
                  f.write('{},{}\n'.format(exp,time.time()))
-            del l[0:9]
+            del l[0:19]
             
 
 # f.write('{},{},{}\n'.format(index,value*100,time.time()))

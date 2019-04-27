@@ -14,19 +14,7 @@ PlayerFireBall::PlayerFireBall(int iXPos, int iYPos, bool moveDirection) {
 
 	this->minionSpawned = true;
 
-	  switch(CCore::expID){
-         case 0: case 1: case 3:
-	      this->moveSpeed = CCore::logisticFunc(CCore::x);
-              break;
-         case 2: case 4:
-	      this->moveSpeed = CCore::logisticFunc(CCore::x);
-              break;
-         case 5:
-               this->moveSpeed =CCore::logisticFunc(CCore::x);
-               break;
-          default:
-               this->moveSpeed = CCore::logisticFunc(CCore::x);
-}
+    this->moveSpeed = 14;
 
 	this->iBlockID = 62;
 
